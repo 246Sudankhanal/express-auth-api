@@ -1,0 +1,13 @@
+# Dependency folder (never upload this, it's huge)
+node_modules/
+
+# Local environment variables (contains your actual secrets)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac system files
+.DS_Store
